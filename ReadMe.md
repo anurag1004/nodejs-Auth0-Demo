@@ -30,6 +30,6 @@ $ NODE_ENV=production node app
 [Official Auth0 Node.js Docs](https://auth0.com/docs/quickstart/webapp/nodejs/01-login?download=true)
 
 #### Screenshots
-![Landing Page](https://github.com/anurag0608/nodejs-Auth0-Demo/ss/1.png)
-![Auth0 Api](https://github.com/anurag0608/nodejs-Auth0-Demo/ss/2.png)
-![User Profile](https://github.com/anurag0608/nodejs-Auth0-Demo/ss/3.png)
+![Landing Page](https://github.com/anurag0608/nodejs-Auth0-Demo/blob/master/ss/1.png)
+![Auth0 Api](https://github.com/anurag0608/nodejs-Auth0-Demo/blob/master/ss/2.png)
+![User Profile](https://github.com/anurag0608/nodejs-Auth0-Demo/blob/master/ss/3.png)
