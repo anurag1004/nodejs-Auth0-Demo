@@ -30,7 +30,7 @@ if(app.get('env') == 'production'){
     //use secure cookies in production(ssl/tls)
     sess.cookie.secure = true;
 }
-
+app.use(express.static('public'));
 app.use(session(sess));
 //after configuring app to use express-session, configure passport
 
